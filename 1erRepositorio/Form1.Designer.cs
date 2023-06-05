@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.btnAceptar = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.SuspendLayout();
             // 
             // btnAceptar
@@ -40,12 +41,22 @@
             this.btnAceptar.Text = "&Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Location = new System.Drawing.Point(169, 59);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(119, 59);
+            this.groupBox1.TabIndex = 1;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "groupBox1";
+            // 
             // frmprincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(385, 301);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnAceptar);
             this.Name = "frmprincipal";
             this.Text = "Form1";
@@ -56,6 +67,7 @@
         #endregion
 
         private System.Windows.Forms.Button btnAceptar;
+        private System.Windows.Forms.GroupBox groupBox1;
     }
 }
 

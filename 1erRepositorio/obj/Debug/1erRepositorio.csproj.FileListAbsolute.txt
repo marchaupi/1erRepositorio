@@ -1,1 +1,9 @@
 C:\repositorio\1erRepositorio\1erRepositorio\bin\Debug\1erRepositorio.exe.config
+C:\repositorio\1erRepositorio\1erRepositorio\bin\Debug\1erRepositorio.exe
+C:\repositorio\1erRepositorio\1erRepositorio\bin\Debug\1erRepositorio.pdb
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\1erRepositorio.csprojResolveAssemblyReference.cache
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\_1erRepositorio.frmprincipal.resources
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\_1erRepositorio.Properties.Resources.resources
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\1erRepositorio.csproj.GenerateResource.Cache
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\1erRepositorio.exe
+C:\repositorio\1erRepositorio\1erRepositorio\obj\Debug\1erRepositorio.pdb
