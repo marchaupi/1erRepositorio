@@ -16,5 +16,10 @@ namespace _1erRepositorio
         {
             InitializeComponent();
         }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            label1.Text = "hola mundo";
+        }
     }
 }
